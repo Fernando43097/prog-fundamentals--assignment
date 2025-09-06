@@ -1,2 +1,2 @@
 print("My name is Fernando")
-print("I like phyton")
+print("I like python")
